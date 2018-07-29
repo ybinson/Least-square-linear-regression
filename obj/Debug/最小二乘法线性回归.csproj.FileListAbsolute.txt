@@ -1,0 +1,7 @@
+c:\users\binson\source\repos\最小二乘法线性回归\最小二乘法线性回归\bin\Debug\最小二乘法线性回归.exe.config
+c:\users\binson\source\repos\最小二乘法线性回归\最小二乘法线性回归\bin\Debug\最小二乘法线性回归.exe
+c:\users\binson\source\repos\最小二乘法线性回归\最小二乘法线性回归\bin\Debug\最小二乘法线性回归.pdb
+c:\users\binson\source\repos\最小二乘法线性回归\最小二乘法线性回归\obj\Debug\最小二乘法线性回归.csprojAssemblyReference.cache
+c:\users\binson\source\repos\最小二乘法线性回归\最小二乘法线性回归\obj\Debug\最小二乘法线性回归.csproj.CoreCompileInputs.cache
+c:\users\binson\source\repos\最小二乘法线性回归\最小二乘法线性回归\obj\Debug\最小二乘法线性回归.exe
+c:\users\binson\source\repos\最小二乘法线性回归\最小二乘法线性回归\obj\Debug\最小二乘法线性回归.pdb
